@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Extent Report Directory/Users/peoplentech/develop/SeleniumJuly2018/WebAutomation/Amazon/test-output/html]]>
+    </line>
+    <line>
+      <![CDATA[TestSearch: search Data]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: search Items And Submit Button]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: get Item Value]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: search For]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: get Search Input Web Element]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: submit Search Button]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: get Submit Button Web Element]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: clear Input]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: get Search Input Web Element]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: search For]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: get Search Input Web Element]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: submit Search Button]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: get Submit Button Web Element]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: clear Input]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: get Search Input Web Element]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: search For]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: get Search Input Web Element]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: submit Search Button]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: get Submit Button Web Element]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: clear Input]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: get Search Input Web Element]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: search For]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: get Search Input Web Element]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: submit Search Button]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: get Submit Button Web Element]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: clear Input]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: get Search Input Web Element]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: search For]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: get Search Input Web Element]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: submit Search Button]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: get Submit Button Web Element]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: clear Input]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: get Search Input Web Element]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: search For]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: get Search Input Web Element]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: submit Search Button]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: get Submit Button Web Element]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: clear Input]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: get Search Input Web Element]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: search For]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: get Search Input Web Element]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: submit Search Button]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: get Submit Button Web Element]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: clear Input]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: get Search Input Web Element]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: search For]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: get Search Input Web Element]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: submit Search Button]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: get Submit Button Web Element]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: clear Input]]>
+    </line>
+    <line>
+      <![CDATA[SearchPage: get Search Input Web Element]]>
+    </line>
+  </reporter-output>
+  <suite name="Amazon API Automation Script " duration-ms="128291" started-at="2018-09-23T15:01:49Z" finished-at="2018-09-23T15:03:57Z">
+    <groups>
+    </groups>
+    <test name="Search Test" duration-ms="128291" started-at="2018-09-23T15:01:49Z" finished-at="2018-09-23T15:03:57Z">
+      <class name="search.TestSearch">
+        <test-method status="PASS" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:search.TestSearch@4d9e68d0]" name="extentSetup" is-config="true" duration-ms="641" started-at="2018-09-23T15:01:48Z" finished-at="2018-09-23T15:01:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@d675f9f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Extent Report Directory/Users/peoplentech/develop/SeleniumJuly2018/WebAutomation/Amazon/test-output/html]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- extentSetup -->
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:search.TestSearch@4d9e68d0]" name="setUp" is-config="true" duration-ms="105578" started-at="2018-09-23T15:01:49Z" finished-at="2018-09-23T15:03:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[browserstack]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[OS X]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sierra]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[60.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[https://www.amazon.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:search.TestSearch@4d9e68d0]" name="startExtent" is-config="true" duration-ms="28" started-at="2018-09-23T15:03:34Z" finished-at="2018-09-23T15:03:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void search.TestSearch.searchData() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExtent -->
+        <test-method status="PASS" signature="searchData()[pri:0, instance:search.TestSearch@4d9e68d0]" name="searchData" duration-ms="12130" started-at="2018-09-23T15:03:34Z" finished-at="2018-09-23T15:03:46Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TestSearch: search Data]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: search Items And Submit Button]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: get Item Value]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: search For]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: get Search Input Web Element]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: submit Search Button]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: get Submit Button Web Element]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: clear Input]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: get Search Input Web Element]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: search For]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: get Search Input Web Element]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: submit Search Button]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: get Submit Button Web Element]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: clear Input]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: get Search Input Web Element]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: search For]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: get Search Input Web Element]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: submit Search Button]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: get Submit Button Web Element]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: clear Input]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: get Search Input Web Element]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: search For]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: get Search Input Web Element]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: submit Search Button]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: get Submit Button Web Element]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: clear Input]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: get Search Input Web Element]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: search For]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: get Search Input Web Element]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: submit Search Button]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: get Submit Button Web Element]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: clear Input]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: get Search Input Web Element]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: search For]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: get Search Input Web Element]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: submit Search Button]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: get Submit Button Web Element]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: clear Input]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: get Search Input Web Element]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: search For]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: get Search Input Web Element]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: submit Search Button]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: get Submit Button Web Element]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: clear Input]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: get Search Input Web Element]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: search For]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: get Search Input Web Element]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: submit Search Button]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: get Submit Button Web Element]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: clear Input]]>
+            </line>
+            <line>
+              <![CDATA[SearchPage: get Search Input Web Element]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchData -->
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:search.TestSearch@4d9e68d0]" name="afterEachTestMethod" is-config="true" duration-ms="10538" started-at="2018-09-23T15:03:46Z" finished-at="2018-09-23T15:03:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchData status=SUCCESS method=TestSearch.searchData()[pri:0, instance:search.TestSearch@4d9e68d0] output=TestSearch: search Data]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestMethod -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:search.TestSearch@4d9e68d0]" name="cleanUp" is-config="true" duration-ms="0" started-at="2018-09-23T15:03:57Z" finished-at="2018-09-23T15:03:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:search.TestSearch@4d9e68d0]" name="generateReport" is-config="true" duration-ms="30" started-at="2018-09-23T15:03:57Z" finished-at="2018-09-23T15:03:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+      </class> <!-- search.TestSearch -->
+    </test> <!-- Search Test -->
+  </suite> <!-- Amazon API Automation Script  -->
+</testng-results>
